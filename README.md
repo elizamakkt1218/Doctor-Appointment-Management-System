@@ -4,6 +4,7 @@ This is one of the course projects of COMP2026 Problem Solving Using Object Orie
 This system supports multi-users, including Admins, Doctors and Patients. By logging in to this system, users are allowed to use various functionalities, which depends on their user types.
 
 -Functionalities-
+
 Admin:
 1. Load in database file
 2. Save data to an output file
